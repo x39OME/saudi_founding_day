@@ -110,6 +110,9 @@
 .landing .boxImg{
   position: relative;
 }
+.landing .boxImg img{
+  max-width: 100%;
+}
 .landing .boxImg::before{
   content: '';
   position: absolute;
