@@ -1,19 +1,8 @@
-@import url('https://fonts.googleapis.com/css2?family=Aboreto&display=swap');
 *{
   margin: 0;
   padding: 0;
   box-sizing: border-box;
   transition: .3s;
-}
-.header{
-  position: relative;
-  width: 100%;
-  height: 100vh;
-  background: url(../img/bg1.jpg);
-  background-size: cover;
-  background-position: center;
-  background-repeat: no-repeat;
-  font-family: 'Aboreto', cursive;
 }
 /* Start Navigation */
 .header .nav{
@@ -79,7 +68,7 @@
     transition: .3s;
   }
   .header .nav #navigation.active{
-    height: 250px;
+    height: 170px;
     padding-top: 50px;
   }
   .header .nav #menuToggle{
