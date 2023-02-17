@@ -95,8 +95,7 @@
   justify-content: space-between;
   align-items: center;
   background-color: #FEFBF0;
-  padding: 80px 0 0;
-  height: calc(100vh + 80px);
+  padding: 80px 20px;
 }
 .landing .boxImg{
   position: relative;
